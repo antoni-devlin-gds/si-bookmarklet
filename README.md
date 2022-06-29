@@ -1,6 +1,6 @@
 # si-bookmarklet
 
-Adding this script into a bookmark will allow you to drop straight into the Search Page in SI. Only tested in Chrome.
+Adding this script into a bookmark will allow you to drop straight into the relevant "search" page in SI. Only tested in Chrome.
 
 ## Usage
 
